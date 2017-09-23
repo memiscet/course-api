@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;io.memiscet.springbootquickstart.topic.topic&apos; to &apos;Topic&apos;&#x0A;- Original project: &apos;course-api&apos;&#x0A;- Original element: &apos;io.memiscet.springbootquickstart.topic.topic&apos;&#x0A;- Renamed element: &apos;io.memiscet.springbootquickstart.topic.Topic&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;topic&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;io.memiscet.springbootquickstart.topic{topic.java[topic" matchStrategy="1" name="Topic" qualified="false" references="true" similarDeclarations="false" stamp="1506037752601" textual="false" version="1.0"/>
+</session>
