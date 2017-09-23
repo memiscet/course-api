@@ -1,5 +1,0 @@
-package io.memiscet.springbootquickstart.hello;
-
-public class HelloController {
-
-}
